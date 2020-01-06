@@ -19,9 +19,9 @@ Name: File Xả Game 2 (Cài file 1 tự cài)
 Version: 0.1.4-1+debug
 Architecture: iphoneos-arm
 Filename: ./debs/filexa2.deb
-MD5sum:071be563b67a150bd941cd606603c309
-SHA1:1fd90edf855e84eba0f0286500194bdaab9c60ec
-SHA256:234871483ffe6614ed8ff5b60e3901e38f9cf92b7d1064eb0e81a98e023fe
+MD5sum:18097b42a55dbce974d2997701121bfc
+SHA1:92b06dceb28eb72d28155cc9458d95f8d799dc73
+SHA256:2d0db7e880aaac031315921aaa918480d4f5a576546fea93f44de7d27f4f7d28
 Size:8814
 Description: File xả hỗ trợ ví
 Section: Tweaks
@@ -34,13 +34,28 @@ Name: File Nạp Game
 Version: 0.0.1-52+debug
 Architecture: iphoneos-arm
 Filename: ./debs/filenap.deb
-MD5sum:7bc0ec1957271d9b34c94b1f7113f501
-SHA1:244766821ec8e2e94ba97e2035792bd493cb4ee0
-SHA256:c3c3ae520a3bc391da2b2ef3dabb22309192f4c282816399c49bd6aaa0d22842
-Size:62944
+MD5sum:12a717fcdc6fc5f5adbfb7534d768f7c
+SHA1:5c4d9adfaa27fb5b285f05024d41efdf0ee938f8
+SHA256:338e4849638c8818a8bd61f5b39b886c0cfe96932095fd7cfc20f0d20127091d
+Size:62956
 Description: Ví Nạp File Chính
 Section: Tweaks
+Pre-Depends: com.khuonghung88.filenap2
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: Khuong Hung
 Author: Khuong Hung
 
+Package: com.khuonghung88.filenap2
+Name: File Nạp Game 2 (Cài file 1 tự cài)
+Version: 0.1.4-1+debug
+Architecture: iphoneos-arm
+Filename: ./debs/filenap2.deb
+MD5sum:2b39135a129272da1ed53404550860d9
+SHA1:725e384066913ac9bd81282c8defad3f365e80c8
+SHA256:218fd7ac0f80e280073aa028097d365a6558e501e306bff133dc6dff9a21c2a0
+Size:8794
+Description: File nạp hỗ trợ ví
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: Khuong Hung
