@@ -34,10 +34,10 @@ Name: File Nạp Game
 Version: 0.0.1-52+debug
 Architecture: iphoneos-arm
 Filename: ./debs/filenap.deb
-MD5sum:12a717fcdc6fc5f5adbfb7534d768f7c
-SHA1:5c4d9adfaa27fb5b285f05024d41efdf0ee938f8
-SHA256:338e4849638c8818a8bd61f5b39b886c0cfe96932095fd7cfc20f0d20127091d
-Size:62956
+MD5sum:106ebef3f3a4f99d072bc5ded81bb69b
+SHA1:1c1f40011ddaf8cc6a2d4154cf6fa5f52b88930f
+SHA256:5888174d6cf7719ceff2989351fca1a367395e867fe2177b0884e2e55e86eba1
+Size:62948
 Description: Ví Nạp File Chính
 Section: Tweaks
 Pre-Depends: com.khuonghung88.filenap2
