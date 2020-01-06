@@ -15,14 +15,14 @@ Maintainer: khuonghung88
 Author: Khuong Hung
 
 Package: com.khuonghung88.filexa2
-Name: File Xả Game 2
+Name: File Xả Game 2 (Cài file 1 tự cài)
 Version: 0.1.4-1+debug
 Architecture: iphoneos-arm
 Filename: ./debs/filexa2.deb
-MD5sum:c1c60460ef502b226e87f71ee16ffa30
-SHA1:061294bc658b35d83e4144072371d9c235485dfd
-SHA256:321db278bcde592895dc476384f216082ecef810c183c00f0ec781264d149a69
-Size:8792
+MD5sum:071be563b67a150bd941cd606603c309
+SHA1:1fd90edf855e84eba0f0286500194bdaab9c60ec
+SHA256:234871483ffe6614ed8ff5b60e3901e38f9cf92b7d1064eb0e81a98e023fe
+Size:8814
 Description: File xả hỗ trợ ví
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
