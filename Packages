@@ -59,3 +59,36 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: Khuong Hung
+
+Package: com.khuonghung88.vixajetprao1
+Name: Ví Xả Jet Prao 1
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixajetprao1.deb
+MD5sum:14d5de82fe82039d9047dc26f7b6e09c
+SHA1:25359aebe676beb827a6267ad2609131835df0db
+SHA256:fda807b6aaaba577bfff13f921c74962409bb8494c016bc9ff152405248fd1f7
+Size:57328
+Description: File Xả Chính
+Section: Tweaks
+Pre-Depends: com.khuonghung88.vixajetprao2
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 440
+
+Package: com.khuonghung88.vixajetprao2
+Name: Ví Xả Jet Prao 2 (Cài file 1 tự cài)
+Version: 0.1.4-17+debug
+Architecture: iphoneos-arm
+Filename: ./debs/vixajetprao2.deb
+MD5sum:b47363f2feaa94e6bd867a3ced7b00e5
+SHA1:2e25862bf887916b75a8532d09461424fd1c94d5
+SHA256:970f95e2a30f150cf2b699760765b40e156f70463c797103a2ac4956cd49a372
+Size:9780
+Description: File xả hỗ trợ ví
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 200
