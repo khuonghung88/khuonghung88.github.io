@@ -92,3 +92,19 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
 Installed-Size: 200
+
+Package: com.khuonghung88.filexapk
+Name: File Xả PK
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/filexapk.deb
+MD5sum:7d5df2c1895e7bf43b865393b5f3ad4d
+SHA1:de60335f64e6bddc2e131d578644c4b6fb47675c
+SHA256:5a7b1a51a45bbff995a7457590951d290217327c1a36534542d75321078936db
+Size:111030
+Description: khuonghung88
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Icon: http://itiaprepo.com/tiz38/test.png
+Author: khuonghung88
