@@ -108,3 +108,68 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Icon: http://itiaprepo.com/tiz38/test.png
 Author: khuonghung88
+
+Package: com.khuonghung88.filexalv
+Name: File Xả LV
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/filexalv.deb
+MD5sum:11d7ad18e9de551e0a28b7424d2705c4
+SHA1:3c1972102abde3ec83ba9cf986520afa0268e328
+SHA256:e315fae5fafbfd47d273be312122e05420f84fd6873a71d6ab42056bd9b1520c
+Size:72266
+Description: khuonghung88
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 240
+
+Package: com.khuonghung88.filexamn
+Name: File Xả MN
+Version: 0.0.1
+Architecture: iphoneos-arm
+Filename: ./debs/filexamn.deb
+MD5sum:96c89fa19ef7e85c9ad501cb9948aad2
+SHA1:5b5bd5c6ca4fcff6b48d59c93526d7de25b2cc94
+SHA256:7b7468e867d30febf0929a82f5999345641d4c63dad64b77fcdc2143f7b501fa
+Size:72246
+Description: khuonghung88
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 240
+
+Package: com.khuonghung88.filexadn1
+Name: File Xả DN 1
+Version: 0.0.1-8+debug
+Architecture: iphoneos-arm
+Filename: ./debs/filexadn1.deb
+MD5sum:f72c37d04f0df3a6b2c43dbcc9fbb78f
+SHA1:e8eef317626411481b9249b2503c86dcaa93c96b
+SHA256:cbba870174b0dba5eb2a787bc080106e66a7c799908b1a5ea284c67367c1e432
+Size:57346
+Description: File Xả Chính
+Section: Tweaks
+Pre-Depends: com.khuonghung88.filexadn2
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 440
+
+Package: com.khuonghung88.filexadn2
+Name: File Xả DN 2 (Cài file 1 tự cài)
+Version: 0.1.4-3+debug
+Architecture: iphoneos-arm
+Filename: ./debs/filexadn2.deb
+MD5sum:d242ab38f49e27bc008bf633b99ee69d
+SHA1:2d0bff628bf13c9672a95c69f5dc63efa2a3ad2a
+SHA256:c09210315aa05176b5538ae7488628fb0ee0259f3738347778631ff3e6ce3d57
+Size:3530
+Description: File xả hỗ trợ ví
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 72
