@@ -173,3 +173,19 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
 Installed-Size: 72
+
+Package: com.khuonghung88.filexahn
+Name: File Xả HN
+Version: 0.0.1-82
+Architecture: iphoneos-arm
+Filename: ./debs/filexahn.deb
+MD5sum:1900ccede4745842a048857bb0c7819f
+SHA1:6fa0b555d9a98ee79067300041951077f38892ff
+SHA256:a9a3cc9603c6a29f00621594e7f7da427b06ba82307b8b087bd2656877be8f08
+Size:70746
+Description: khuonghung88
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 224
