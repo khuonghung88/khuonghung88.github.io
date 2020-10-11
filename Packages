@@ -189,3 +189,20 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
 Installed-Size: 224
+
+Package: com.khuonghung88.filexamq
+Name: File Xả MQ
+Version: 0.0.1-79+debug
+Architecture: iphoneos-arm
+Filename: ./debs/filexamq.deb
+MD5sum:16fa0a815dc56c0d8264ddff6ec7d3af
+SHA1:46b9870761c8972df9934760bdd755352d5e3a3e
+SHA256:530ef314cf2643fc347447e5cf5d87ffb496096b7df3915ba9042e594e1ec452
+Size:119986
+Description: khuonghung88
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 444
+
