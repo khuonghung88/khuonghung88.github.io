@@ -206,3 +206,19 @@ Maintainer: khuonghung88
 Author: khuonghung88
 Installed-Size: 444
 
+Package: com.khuonghung88.filexahk
+Name: File Xả HK	
+Version: 0.0.1-82
+Architecture: iphoneos-arm
+Filename: ./debs/filexahk.deb
+MD5sum:5e33f4b1fee3e2ec40767ccbad5a60a2
+SHA1:cde8e1a29004e67fa2eb2440e355826e7e6ef8ae
+SHA256:4746edc54c1b48f6850257c602dbbc904ca84b12bc71dd81d91b481b571a54f9
+Size:70738
+Description: khuonghung88
+Section: Tweaks
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+Installed-Size: 224
+
