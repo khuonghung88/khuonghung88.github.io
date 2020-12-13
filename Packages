@@ -220,5 +220,21 @@ Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
-Installed-Size: 224
+Installed-Size: 
+
+Package: com.khuonghung88.filexand
+Name: File Xả ND	
+Version: 2.1
+Architecture: iphoneos-arm
+Filename: ./debs/filexand.deb
+MD5sum:6b0ebbd7c69bf3abf210326c8dd346e0
+SHA1:90ab6e362376f43c23b18b5b5ec364f0ea10036c
+SHA256:749b46a7e36724b2d5a526d4271494817afc26bd88a8c89803479a25c2f31491
+Size:119224
+Description: khuonghung88
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+
 
