@@ -192,19 +192,19 @@ Installed-Size: 224
 
 Package: com.khuonghung88.filexamq
 Name: File Xả MQ
-Version: 0.0.1-79+debug
+Version: 0.0.1-180
 Architecture: iphoneos-arm
 Filename: ./debs/filexamq.deb
-MD5sum:16fa0a815dc56c0d8264ddff6ec7d3af
-SHA1:46b9870761c8972df9934760bdd755352d5e3a3e
-SHA256:530ef314cf2643fc347447e5cf5d87ffb496096b7df3915ba9042e594e1ec452
-Size:119986
+MD5sum:d6903538129186a7ec2fa992b0516751
+SHA1:dac3974c2ce91cb04110ea98db16e2f12833dab8
+SHA256:f7fce81cff4993ac59b65e4699c28792ceefe20f838c249ba7c214a5a9a07d61
+Size:769124
 Description: khuonghung88
 Section: Tweaks
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
-Installed-Size: 444
+Installed-Size: 1844
 
 Package: com.khuonghung88.filexahk
 Name: File Xả HK	
