@@ -237,4 +237,20 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
 
+Package: com.khuonghung88.filexajtt
+Name: File Xả JTT	
+Version: 2.0
+Architecture: iphoneos-arm
+Filename: ./debs/filexajtt.deb
+MD5sum:487ce635638f9a38da5fd030fb4a0eab
+SHA1:a989682d0222de67f74931aabd10b6dc256f2564
+SHA256:da23763316f4085771c539c7bbf305a92f52b65572d8ca3e4b984a7e5a59f99a
+Size:119190
+Description: khuonghung88
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+
+
 
