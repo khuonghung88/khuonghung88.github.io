@@ -252,5 +252,20 @@ Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Maintainer: khuonghung88
 Author: khuonghung88
 
+Package: com.khuonghung88.filexakt2
+Name: File Xả KT2	
+Version: 2.5
+Architecture: iphoneos-arm
+Filename: ./debs/filexakt2.deb
+MD5sum:f7dfa4df7321c9159784e16b843e50b6
+SHA1:912dcb1f1c45198a6acc16b938813f48f1ce38fc
+SHA256:1b5858298cc81497f4a4dc341894f1a4bd5503e04169af619273e48f05639bdf
+Size:53736
+Description: khuonghung88
+Section: System
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Maintainer: khuonghung88
+Author: khuonghung88
+
 
 
